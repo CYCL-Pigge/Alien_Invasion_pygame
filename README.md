@@ -1,4 +1,4 @@
-欢迎来到Alien Invasion（定制版）
+欢迎来到Alien Invasion
 
 操作手册：
 方向键：左（操作人物向左移动）
